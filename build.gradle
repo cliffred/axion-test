@@ -4,4 +4,8 @@ plugins {
 
 apply plugin: 'java-library'
 
+scmVersion {
+    useHighestVersion = true
+}
+
 version = scmVersion.version
