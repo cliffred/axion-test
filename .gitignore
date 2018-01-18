@@ -4,3 +4,7 @@ out/
 .idea/
 *.iws
 *.iml
+.settings/
+.classpath
+.project
+bin/
